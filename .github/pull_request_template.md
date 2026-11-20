@@ -28,7 +28,7 @@
 - [ ] Commits messages follow [AP format](https://github.com/accordproject/techdocs/blob/master/DEVELOPERS.md#commit-message-format)
 - [ ] Extend the documentation, if necessary
 - [ ] Merging to `master` from `fork:branchname`
-- [ ] Manual accessibility test performed
+- [ ] Manual accessibility test performed using the [accessibility guide](https://github.com/accordproject/techdocs/blob/main/DEVELOPERS.md#accessibility-checks)
     - [ ] Keyboard-only access, including forms
-    - [ ] Contrast at least WCAG Level A
+    - [ ] Text contrast checked against WCAG 2.1 Level AA (SC 1.4.3)
     - [ ] Appropriate labels, alt text, and instructions
